@@ -19,15 +19,19 @@ describe('empty spec', () => {
    la función filterFilms debe devolver todas las peliculas, un total de 10
   */
   it('test 1', () => {
-    // <<<<Tu código aquí>>>> 
-  })
+    // <<<<Tu código aquí>>>>
+    
+    
+    })
+    
 
   /** 
    si filtramos las peliculas especifiando como palabra prohibida ['Autopsy'],
    la función filterFilms debe devolver todas las peliculas menos 1, un total de 9
   */
   it('test 2', () => {
-    // <<<<Tu código aquí>>>> 
+    // <<<<Tu código aquí>>>>
+     
   })
 
 

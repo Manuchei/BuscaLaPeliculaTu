@@ -1,4 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 input,button{
     border: 1px solid #ccc;
+}
+
+.miBoton{
+ @apply border rounded text-sm py-4 px-5 text-center mr-2 mb-2 hover:bg-violet-400
 }
